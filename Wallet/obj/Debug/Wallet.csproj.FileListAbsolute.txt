@@ -1,0 +1,12 @@
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.csproj.AssemblyReference.cache
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.csproj.SuggestedBindingRedirects.cache
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.Properties.Resources.resources
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.csproj.GenerateResource.cache
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\abids\Desktop\C#\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\abids\Desktop\C#\Wallet\bin\Debug\Wallet.exe
+C:\Users\abids\Desktop\C#\Wallet\bin\Debug\Wallet.pdb
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.exe
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.pdb
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.frmLogin.resources
+C:\Users\abids\Desktop\C#\Wallet\obj\Debug\Wallet.LoginForm.resources
