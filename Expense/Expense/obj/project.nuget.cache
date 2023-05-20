@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "M/L+1ZouqGuejg2kkMvJFdxZzPogF8fzsj/dWxtQJa5TqQXFN2WFLJq5pXhAwrh2FWu9xxpQFl7r5oF+zoDiRw==",
+  "dgSpecHash": "FghScZgyQsEqECy8eUbaEVDUwa7uPynoHziQNMMuXenpo6v35g9mBgkZuY4YAAS4beDMPgOpMJbnjjjDJsMvWA==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT EXPERIMENT\\Expense\\Expense\\Expense.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\abids\\OneDrive\\Desktop\\Final\\Expense\\Expense\\Expense.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abids\\.nuget\\packages\\microsoft.chart.controls\\4.7.2046\\microsoft.chart.controls.4.7.2046.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Chart.Controls 4.7.2046' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Chart.Controls",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

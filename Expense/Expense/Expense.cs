@@ -10,11 +10,11 @@ namespace Expense
     {
         public string Category { get; set; }
         public decimal Amount { get; set; }
+        public decimal Budget { get; set; }
 
-        public Expense(string category, decimal amount)
+        public override string ToString()
         {
-            Category = category;
-            Amount = amount;
+            return $"{Category} - {Budget} {Amount}";
         }
     }
 }

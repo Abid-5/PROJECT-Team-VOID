@@ -29,7 +29,7 @@ namespace Expense
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Expense e1=new Expense(CategoryList.Text,Convert.ToDecimal(AmountTextbox.Text));
+           
             
         }
     }
