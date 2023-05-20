@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Expense
 {
-    internal class Expense
+    public class Expense
     {
         public string Category { get; set; }
         public decimal Amount { get; set; }
 
-        public Expense(string category, string description, decimal amount)
+        public Expense(string category, decimal amount)
         {
             Category = category;
             Amount = amount;

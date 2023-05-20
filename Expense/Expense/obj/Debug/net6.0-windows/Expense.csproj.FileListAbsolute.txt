@@ -1,5 +1,4 @@
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.csproj.AssemblyReference.cache
-D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.Form1.resources
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.csproj.GenerateResource.cache
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.GeneratedMSBuildEditorConfig.editorconfig
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.AssemblyInfoInputs.cache
@@ -10,9 +9,10 @@ D:\PROJECT EXPERIMENT\Expense\Expense\bin\Debug\net6.0-windows\Expense.deps.json
 D:\PROJECT EXPERIMENT\Expense\Expense\bin\Debug\net6.0-windows\Expense.runtimeconfig.json
 D:\PROJECT EXPERIMENT\Expense\Expense\bin\Debug\net6.0-windows\Expense.dll
 D:\PROJECT EXPERIMENT\Expense\Expense\bin\Debug\net6.0-windows\Expense.pdb
-D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.Form2.resources
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.dll
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\refint\Expense.dll
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.pdb
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.genruntimeconfig.cache
 D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\ref\Expense.dll
+D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.AddExpense.resources
+D:\PROJECT EXPERIMENT\Expense\Expense\obj\Debug\net6.0-windows\Expense.Main.resources
